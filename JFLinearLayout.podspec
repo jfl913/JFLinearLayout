@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JFLinearLayout'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A simple linear layout'
 
 # This description is used to generate tags and improve search results.
@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/jfl913/JFLinearLayout'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '李俊峰' => 'jfl913@163.com' }
-  s.source           = { :git => 'https://github.com/李俊峰/JFLinearLayout.git', :tag => s.version.to_s }
+  s.author           = { 'Li Junfeng' => 'jfl913@163.com' }
+  s.source           = { :git => 'https://github.com/jfl913/JFLinearLayout.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
