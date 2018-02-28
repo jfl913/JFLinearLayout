@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JFLinearLayout_Example' do
+  pod 'JFLinearLayout', :path => '../'
+
+  target 'JFLinearLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
