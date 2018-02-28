@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JFLinearLayout'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JFLinearLayout.'
+  s.summary          = '一个简单的线性布局'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/李俊峰/JFLinearLayout'
+  s.homepage         = 'https://github.com/jfl913/JFLinearLayout'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '李俊峰' => 'lijunfeng@u51.com' }
+  s.author           = { '李俊峰' => 'jfl913@163.com' }
   s.source           = { :git => 'https://github.com/李俊峰/JFLinearLayout.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

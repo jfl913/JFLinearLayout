@@ -1,0 +1,6 @@
+framework module JFLinearLayout {
+  umbrella header "JFLinearLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

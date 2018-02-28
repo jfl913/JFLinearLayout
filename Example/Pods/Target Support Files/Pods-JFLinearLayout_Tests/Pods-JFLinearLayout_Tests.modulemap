@@ -1,0 +1,6 @@
+framework module Pods_JFLinearLayout_Tests {
+  umbrella header "Pods-JFLinearLayout_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
