@@ -22,7 +22,7 @@ pod 'JFLinearLayout'
 
 ## Author
 
-李俊峰, lijunfeng@u51.com
+李俊峰, jfl913@163.com
 
 ## License
 
